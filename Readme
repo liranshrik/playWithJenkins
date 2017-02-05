@@ -1,0 +1,5 @@
+* all the cotntent that you want to download will be declared in package.xml
+* maybe need to open cmd in admin mode
+* go to the directory where the build.xml found and click ant in the cmd
+
+
